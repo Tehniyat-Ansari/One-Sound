@@ -1,0 +1,77 @@
+* {
+	padding : 0;
+	margin : 0;
+
+}
+.box {
+	box-shadow: 1px 2px 5px #000;
+	height: 880px;
+background: hsla(213, 77%, 14%, 1);
+
+background: linear-gradient(90deg, hsla(213, 77%, 14%, 1) 0%, hsla(202, 27%, 45%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(213, 77%, 14%, 1) 0%, hsla(202, 27%, 45%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(213, 77%, 14%, 1) 0%, hsla(202, 27%, 45%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#08203E", endColorstr="#557C93", GradientType=1 );}
+.set a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+.mainbox {
+background: hsla(197, 100%, 63%, 1);
+
+background: linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(197, 100%, 63%, 1) 0%, hsla(294, 100%, 55%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#40C9FF", endColorstr="#E81CFF", GradientType=1 );
+}
+.mainbox a {
+	text-decoration: none;
+	color: #000;
+}
+
+.main-pi {
+	height: 100px;
+    box-shadow: 1px 2px 10px  #000;
+
+}
+
+
+.pset {
+
+	height: 100px;
+}
+.pset p {
+	font-size: 14px;
+	font-weight: 700;
+}
+.pset h5 {
+	color: #000;
+}
+
+
+.iset {
+
+	height: 100px;
+}
+.iset i {
+	font-size: 30px;
+	margin-top: 0%;
+	margin-left: 40%;
+}
